@@ -1,0 +1,9 @@
+data/
+node_modules/
+.env
+dist/
+*.db
+*.db-journal
+.DS_Store
+worktrees/
+.workbuddy-ai/
